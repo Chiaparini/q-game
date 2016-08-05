@@ -1,7 +1,7 @@
 {
   "repository": {
     "type": "git",
-    "url": "git@github.com:mliu95/quintus-tag.git"
+    "url": "https://git.heroku.com/q-gaem.git"
   },
   "name": "quintus-tag",
   "author": "Michael Liu",
