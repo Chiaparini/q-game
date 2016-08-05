@@ -7,7 +7,7 @@ var Q = Quintus({audioSupported: [ 'wav','mp3' ]})
 Q.gravityY = 0;
 
 var objectFiles = [
-	'./src/player'
+	'../src/player'
 ];
 
 var players = [];
